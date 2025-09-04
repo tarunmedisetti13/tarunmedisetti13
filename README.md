@@ -1,6 +1,10 @@
-# Hi there, I'm Tarun Medisetti 👋
+<h1 align="center" style="color: #58A6FF; font-weight: 600;">
+  Hi there, I'm Tarun Medisetti 👋
+</h1>
 
-## 🚀 About Me
+<h2 style="color: #F85149; font-weight: 500;">
+  🚀 About Me
+</h2>
 I'm a passionate about **Web Development** building scalable web applications and solving complex problems. I love creating efficient, user-friendly solutions and am always eager to learn new technologies.
 
 - 🌱 I'm currently learning **MERN STACK**
