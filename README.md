@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=999999&color=2E86AB&center=true&vCenter=true&width=700&lines=Hey+%2C+Coders+I'm+Tarun+Medisetti+%F0%9F%91%8B" alt="Static Heading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=999999&color=2E86AB&center=true&vCenter=true&width=700&lines=Hello+%1C+Developers,+I'm+Tarun+Medisetti+%F0%9F%91%8B" alt="Static Heading" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=1&pause=999999&color=FF6B6B&center=true&vCenter=true&width=435&lines=🚀+About+Me" alt="About Me" />
 </div>
-I'm a passionate about **Web Development** building scalable web applications and solving complex problems. I love creating efficient, user-friendly solutions and am always eager to learn new technologies.
+
+I'm a passionate about **Web Devlopment** building scalable web applications and solving complex problems. I love creating efficient, user-friendly solutions and am always eager to learn new technologies.
 
 - 🌱 I'm currently learning **MERN STACK**
 - 👯 I'm looking to collaborate on **Full Stack Projects**
