@@ -97,5 +97,5 @@ A real-time messaging application that replicates core WhatsApp features, built 
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=999999&color=2E86AB&center=true&vCenter=true&width=600&lines=%F0%9F%92%AB+%22Code+is+poetry+written+in+logic%22+%F0%9F%92%AB" alt="Static Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=999999&color=2E86AB&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+%22Degree+earned,+dreams+loading...%22+%F0%9F%8E%93" alt="Static Quote" />
 </div>
