@@ -83,7 +83,7 @@ A real-time messaging application that replicates core WhatsApp features, built 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://tarunmedisetti-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-medisetti/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tarun_medisetti)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunmedisetti13@gmail.com)
@@ -91,10 +91,6 @@ A real-time messaging application that replicates core WhatsApp features, built 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarunmedisetti13&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
   💫 <em>"Code is poetry written in logic"</em> 💫
