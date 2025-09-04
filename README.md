@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=999999&color=2E86AB&center=true&vCenter=true&width=700&lines=Hello+%1C+Developers,+I'm+Tarun+Medisetti+%F0%9F%91%8B" alt="Static Heading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=999999&color=2E86AB&center=true&vCenter=true&width=700&lines=Hello+%2C+Developers,+I'm+Tarun+Medisetti+%F0%9F%91%8B" alt="Static Heading" />
 </div>
 
 <div align="center">
