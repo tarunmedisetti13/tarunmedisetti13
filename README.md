@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E86AB&center=true&vCenter=true&width=600&lines=HHey+%2C+Coders+I'm+Tarun+Medisetti+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://img.shields.io/static/v1?label=&message=Hey%20,%20Coders%20I'm%20Tarun%20Medisetti%20👋&color=2E86AB&style=for-the-badge&labelColor=2E86AB" alt="Hey Coders" />
 </div>
 
 <div align="center">
