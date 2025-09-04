@@ -85,10 +85,6 @@ A real-time messaging application that replicates core WhatsApp features, built 
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=999999&color=2E86AB&center=true&vCenter=true&width=500&lines=%F0%9F%93%88+Activity+Graph" alt="Activity Graph Header" />
-</div>
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://tarunmedisetti-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-medisetti/)
