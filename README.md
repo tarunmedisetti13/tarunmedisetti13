@@ -1,8 +1,8 @@
-<h1 align="center" style="color: #58A6FF; font-weight: 600;">
-  Hi there, I'm Tarun Medisetti 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tarun+Medisetti+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<h2 style="color: #F85149; font-weight: 500;">
+<h2 style="color: #FF6B6B; font-family: 'Arial', sans-serif;">
   🚀 About Me
 </h2>
 I'm a passionate about **Web Development** building scalable web applications and solving complex problems. I love creating efficient, user-friendly solutions and am always eager to learn new technologies.
