@@ -66,12 +66,12 @@ A full-stack notes management application with user authentication, allowing use
 **Features:** User authentication, CRUD operations, Responsive design, Real-time updates  
 **[Live Demo](https://notes-highway-delite.netlify.app/)** | **[Source Code](https://github.com/tarunmedisetti13/notes-app-mern)**
 
-### 💡 [WhatsApp Clone](https://github.com/tarunmedisetti13/whatsapp-clone)
+### 💡 [WhatsApp Clone](https://github.com/tarunmedisetti13/whatsapp_clone_frontend)
 A real-time messaging application that replicates core WhatsApp features, built with modern web technologies for seamless communication.
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS  
 **Features:** Real-time messaging, User authentication, Modern UI/UX, Mobile responsive  
-**[Live Demo](https://rapidquest-tarun.netlify.app/)** | **[Source Code](https://github.com/tarunmedisetti13/whatsapp-clone)**
+**[Live Demo](https://rapidquest-tarun.netlify.app/)** | **[Source Code](https://github.com/tarunmedisetti13/whatsapp_clone_frontend)**
 
 ## 🎯 Current Focus
 - 🔍 **Open Source Contributions:** Contributing to projects in React ecosystem
